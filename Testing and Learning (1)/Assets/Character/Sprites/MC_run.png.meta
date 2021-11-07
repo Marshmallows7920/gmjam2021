@@ -29,6 +29,21 @@ TextureImporter:
   - first:
       213: 5714107489947465221
     second: MC_run_8
+  - first:
+      213: 4735771618699915836
+    second: MC_run_9
+  - first:
+      213: -6772853437344472008
+    second: MC_run_10
+  - first:
+      213: 452140372452032654
+    second: MC_run_11
+  - first:
+      213: -5490845084852256777
+    second: MC_run_12
+  - first:
+      213: -111989950019281940
+    second: MC_run_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -133,12 +148,12 @@ TextureImporter:
       name: MC_run_0
       rect:
         serializedVersion: 2
-        x: 62
-        y: 573
-        width: 340
-        height: 579
+        x: 0
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -154,12 +169,12 @@ TextureImporter:
       name: MC_run_1
       rect:
         serializedVersion: 2
-        x: 638
-        y: 573
-        width: 405
-        height: 517
+        x: 576
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -175,12 +190,12 @@ TextureImporter:
       name: MC_run_2
       rect:
         serializedVersion: 2
-        x: 1198
-        y: 588
-        width: 405
-        height: 518
+        x: 1152
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -196,12 +211,12 @@ TextureImporter:
       name: MC_run_3
       rect:
         serializedVersion: 2
-        x: 1806
-        y: 573
-        width: 373
-        height: 501
+        x: 1728
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -217,12 +232,12 @@ TextureImporter:
       name: MC_run_4
       rect:
         serializedVersion: 2
-        x: 2397
-        y: 573
-        width: 277
-        height: 501
+        x: 2304
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -238,12 +253,12 @@ TextureImporter:
       name: MC_run_5
       rect:
         serializedVersion: 2
-        x: 2973
-        y: 573
-        width: 342
-        height: 486
+        x: 2880
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -259,12 +274,12 @@ TextureImporter:
       name: MC_run_6
       rect:
         serializedVersion: 2
-        x: 3534
-        y: 573
-        width: 389
-        height: 501
+        x: 3456
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -280,12 +295,12 @@ TextureImporter:
       name: MC_run_7
       rect:
         serializedVersion: 2
-        x: 4044
-        y: 588
-        width: 455
-        height: 502
+        x: 4032
+        y: 576
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -301,12 +316,12 @@ TextureImporter:
       name: MC_run_8
       rect:
         serializedVersion: 2
-        x: 62
+        x: 0
         y: 0
-        width: 373
-        height: 498
+        width: 576
+        height: 576
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -314,6 +329,90 @@ TextureImporter:
       bones: []
       spriteID: 506b7bacc769c4f40800000000000000
       internalID: 5714107489947465221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_run_9
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 573
+        width: 54
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323cfd2237d8b140800000000000000
+      internalID: 4735771618699915836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_run_10
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 573
+        width: 38
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834ac4fceadf102a0800000000000000
+      internalID: -6772853437344472008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_run_11
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 573
+        width: 52
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80cd90f543564600800000000000000
+      internalID: 452140372452032654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_run_13
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 573
+        width: 53
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebdfaadbb1227ef0800000000000000
+      internalID: -111989950019281940
       vertices: []
       indices: 
       edges: []
